@@ -1,1 +1,2 @@
-# Color-reactnative
+# Color-reactnative  
+A basic react native app that displays a list of colors and allows us to view details of that color.The web feature allows us to view all possible colors.Makes use of react-navigation(to navigate between different screens while passing color when navigating) , Async storage(to store colors list and render it in component-did-mount method) , listview and datasource to display the colors list from an array.Allows passing of props from parent to child and vice versa.
